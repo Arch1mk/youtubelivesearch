@@ -42,6 +42,7 @@ class App extends Component {
           onVideoSelect = { selectedVideo => this.setState({ selectedVideo }) }
           videos={this.state.videos} />
           </div>
+          <h5>Develop by : <a href="https://www.linkedin.com/in/aleksandar-georgievski-017b4576"> Aleksandar G</a></h5>
         </div>
       </div>
     );
