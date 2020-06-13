@@ -5,7 +5,7 @@ import Seachbar from './Search_bar';
 import Videolist from './Video_list';
 import Videodetails from './Video-details';
 
-const API_KEY = 'AIzaSyDjUfzUy34hHfv7PTiB-LOfbT_-PuiUtx4';
+const API_KEY = 'AIzaSyAoj12lNrMHt25O3ItFnoioiVD4fr8DQQk';
 
 
 
